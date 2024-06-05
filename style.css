@@ -24,12 +24,12 @@ button:hover {
 }
 
 #mensagem {
-    color: #007BFF;
+    color: #321464;
     font-weight: bold;
 }
 
 #textoAlterado {
-    color: #555;
+    color: rgb(150, 139, 197);
     font-style: italic;
 }
 

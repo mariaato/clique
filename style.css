@@ -3,10 +3,13 @@ body {
     background-color: #f0f0f0;
     margin: 20px;
     text-align: center;
+    background-image: url('imagem.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
 }
 
 h1 {
-    color: #333;
+    color: #f0f0f0;
 }
 
 button {
@@ -23,19 +26,30 @@ button:hover {
     background-color: #4b43b9;
 }
 
+label{
+    color: #f0f0f0;
+}
+
 #mensagem {
-    color: #321464;
+    color: #f0f0f0;
     font-weight: bold;
 }
 
 #textoAlterado {
-    color: #9372c9;
+    color: #f0f0f0;
     font-style: italic;
 }
 
 a {
-    color: #321464;
+    color: #f0f0f0;
     text-decoration: none;
+}
+p{
+    color: #f0f0f0;
+}
+
+a#meuLink{
+    color: #f0f0f0,
 }
 
 a:hover {
